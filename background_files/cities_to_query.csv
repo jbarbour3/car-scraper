@@ -1,0 +1,22 @@
+city,state,craigslist_base_url
+Georgia,Atlanta,https://atlanta.craigslist.org/search/
+Georgia,Albany,https://albanyga.craigslist.org/search/
+Georgia,Athens,https://athensga.craigslist.org/search/
+Georgia,Augusta,https://augusta.craigslist.org/search/
+Georgia,Brunswick,https://brunswick.craigslist.org/search/
+Georgia,Columbus,https://columbusga.craigslist.org/search/
+Georgia,Macon,https://macon.craigslist.org/search/
+Georgia,North West GA,http://nwga.craigslist.org/search/
+Georgia,Savannah,https://savannah.craigslist.org/search/
+Georgia,Statesboro,https://statesboro.craigslist.org/search/
+Georgia,Valdosta,https://valdosta.craigslist.org/search/
+Alabama,Dothan,https://dothan.craigslist.org/search/
+Alabama,Auburn,https://auburn.craigslist.org/search/
+Alabama,Birmingham,https://bham.craigslist.org/search/
+Florida,Tallahassee,https://tallahassee.craigslist.org/search/
+Florida,Jacksonville,https://jacksonville.craigslist.org/search/
+Florida,Lake City,https://lakecity.craigslist.org/search/
+Tennessee,Chattanooga,https://chattanooga.craigslist.org/search/
+South Carolina,Hilton Head,https://hiltonhead.craigslist.org/search/
+South Carolina,Greenville,https://greenville.craigslist.org/search/
+South Carolina,Columbia,https://columbia.craigslist.org/search/
